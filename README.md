@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kiara and I'm an aspiring data scientist, from the Philippines.</p>
+<p align="left">My name is Kiara and I'm an aspiring data scientist from the Philippines.</p>
 
 ###
 
