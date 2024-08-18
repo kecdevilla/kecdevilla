@@ -1,5 +1,5 @@
-<center><img src="https://media2.giphy.com/avatars/Fluffystar/1k0V89yDnbsu.gif">
-<h1>Hey 👋 What's up?</h1><center></center>
+<img width=50% src="https://media2.giphy.com/avatars/Fluffystar/1k0V89yDnbsu.gif">
+<h1>Hey 👋 What's up?</h1><center>
 
 ###
 
