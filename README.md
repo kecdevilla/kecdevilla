@@ -1,6 +1,6 @@
 ###
 
-<p align="left">My name is Kiara and I'm an aspiring data scientist from the Philippines.</p>
+<p align="left">I'm Kiara, I'm currently taking my Professional Master's in Data Science. I originally came from a Linguistics background, giving me skills in research and analytics, which I hope to apply in a professional setting.</p>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python<br>🎯 Goals: Career Shift<br>🎲 Fun fact: I have aphantasia. It means I have no mental imagery but that doesn't stop me from being creative.</p>
+<p align="left">✨ I only started to code in 2024, when I first took up my Master's, so it's a work in progress.<br>📚 Having worked as a researcher for an investment database, I'm interested in the finance field. <br>🎯 Goals: Career Shift<br>🎲 Fun fact: I have aphantasia. It means I have no mental imagery, but that doesn't stop me from being creative.</p>
 
 ###
 
