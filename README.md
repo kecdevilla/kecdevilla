@@ -1,6 +1,3 @@
-<img width=150px src="https://media2.giphy.com/avatars/Fluffystar/1k0V89yDnbsu.gif">
-<h1>Hey 👋 What's up?</h1>
-
 ###
 
 <p align="left">My name is Kiara and I'm an aspiring data scientist from the Philippines.</p>
